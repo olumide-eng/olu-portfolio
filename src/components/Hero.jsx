@@ -33,7 +33,7 @@ const Hero = () => {
             </a>
           </div>
           <a
-            href="https://resumeolu.s3.eu-west-2.amazonaws.com/ILO-OLUMIDE-2024-RESUME+copy.pdf"
+            href="https://resumeolu.s3.eu-west-2.amazonaws.com/ILO-RESUME.pdf"
             target="_blank"
           >
             <button className="bd-transparent hover:bg-blue-300 text-slate-600 font-semibold hover:text-white py-2 px-2 border border-blue-500 hover:border-transparent rounded mt-4">
