@@ -61,7 +61,7 @@ export const projects = [
     img: "https://resumeolu.s3.eu-west-2.amazonaws.com/web.png",
     url: "https://olu-image-generator.netlify.app/",
     github: "https://github.com/olumide-eng",
-    title: "first project",
+    title: "Image Generator",
     text: "The project is a web application that generates images based on user input. It's hosted on Netlify and the source code is available on GitHub. The project demonstrates proficiency in web development and the use of modern JavaScript library called react and react query for fetching data. The project also demonstrates the use of modern CSS techniques for styling and responsiveness ",
   },
   {
@@ -69,7 +69,7 @@ export const projects = [
     img: "https://resumeolu.s3.eu-west-2.amazonaws.com/web1.png",
     url: "https://blender-beverage.netlify.app/",
     github: "https://github.com/olumide-eng",
-    title: "second project",
+    title: "Beverage Blender",
     text: "Beverage  Blender is a dynamic web application that allows users to create custom beverage recipes. Built with React for the frontend,  and styled-components for CSS-in-JS styling, it showcases my proficiency in front end development and user interface design, also displays proficiency with external libraries like react-router-dom for routing and react-query for fetching data. The project is hosted on Netlify and the source code is available on GitHub.",
   },
   {
@@ -77,7 +77,7 @@ export const projects = [
     img: "https://resumeolu.s3.eu-west-2.amazonaws.com/web3.png",
     url: "https://convenience-store.netlify.app/",
     github: "https://github.com/olumide-eng",
-    title: "third project",
+    title: "Comfy Store",
     text: "Comfy Store is an e-commerce web application built with React and redux toolkit. It features product listing, shopping cart functionality, and user authentication. tailwind css and daisy UI were used for CSS-in-JS styling, demonstrating my skills in web development and e-commerce solutions",
   },
 ];
